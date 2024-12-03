@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefabouhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="arefabouhamdan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arefabouhamdan" alt="arefabouhamdan" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=arefabouhamdan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **React, Express**
 
