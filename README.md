@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aref Abou Hamdan</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<h1 align="left">Hi 👋, I'm Aref Abou Hamdan</h1>
+<h3 align="left">😎 I'm a Computer Science grad passionate about turning creative ideas into real-life applications.</h3>
+<h3 align="left">💡I'm diving deep into React these days and loving it's ease of use. 🚀</h3>
+<h3 align="left">🎯I believe there's always room to level up and outperform your previous accomplishments. In the words of Les Brown, "𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙚 𝙢𝙖𝙠𝙚𝙨 𝙞𝙢𝙥𝙧𝙤𝙫𝙚𝙢𝙚𝙣𝙩. 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚𝙩𝙩𝙚𝙧 𝙮𝙤𝙪𝙧 𝙗𝙚𝙨𝙩. 𝙔𝙤𝙪'𝙡𝙡 𝙣𝙚𝙫𝙚𝙧 𝙝𝙞𝙩 𝙖 𝙨𝙩𝙖𝙩𝙚 𝙤𝙛 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤𝙣." </h3>
+<h3 align="left">📈When I’m not coding, you will find me watching F1 🏎️ and cheering on 1️⃣Max Verstappen as he dominates the track.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArefAH&theme=onedark&rank=-C,-?" alt="arefabouhamdan" /></a> </p>
-
-- 🌱 I’m currently learning **Three.js**
-
-- 📫 How to reach me **arefabouhamdan@gmail.com**
-
-- ⚡ Fun fact **Max Verstappen is the goat**
+<div style="display: flex; justify-content: center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArefAH&theme=onedark&rank=-C,-?" alt="arefabouhamdan" /></a> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,52 +13,119 @@
 </p>
 
 <h3>Programming Languages</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> TypeScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <p>Python</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <p>TypeScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <p>PHP</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <p>Java</p>
+  </div>
+</div>
 
 <h3>Frontend Development</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS3
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> Tailwind CSS
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> React Native
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <p>HTML5</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <p>CSS3</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <p>Tailwind CSS</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <p>React</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    <p>React Native</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <p>Redux</p>
+  </div>
+</div>
 
 <h3>Backend Development</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> Node.js
-  <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="express" width="40" height="40"/> Express.js
-  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> Laravel
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <p>Node.js</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="Express.js Logo" width="40" height="40"/>
+    <p>Express.js</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
+    <p>Laravel</p>
+  </div>
+</div>
 
 <h3>Database Management</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <p>MongoDB</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <p>MySQL</p>
+  </div>
+</div>
 
 <h3>Tools & Utilities</h3>
-<p>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> Git
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    <p>Git</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <p>Postman</p>
+  </div>
+</div>
 
 <h3>Design & Prototyping</h3>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> Adobe Illustrator
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> Adobe Photoshop
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <p>Figma</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <p>Adobe Illustrator</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/>
+    <p>Adobe Photoshop</p>
+  </div>
+</div>
 
 <h3>Hardware & Embedded Systems</h3>
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> Arduino
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <p>Arduino</p>
+  </div>
+</div>
+
 
