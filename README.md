@@ -6,7 +6,7 @@
 <h3 align="left">📈When I’m not coding, you will find me watching F1 🏎️ and cheering on 1️⃣Max Verstappen as he dominates the track.</h3>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVmbGF1bTk0cjludnZ0eXhyOHc5c2s0cHRiYWM5anllaHUwYTdsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ozoPcVTVEJazsfX5rL/giphy.webp"/>
 
-<div style="display: flex; justify-content: center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArefAH&theme=onedark&rank=-C,-?" alt="arefabouhamdan" /></a> </div>
+<div style="display: flex; justify-content: center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arefabouhamdan&theme=onedark&rank=-C,-?" alt="arefabouhamdan" /></a> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
