@@ -13,119 +13,113 @@
 </p>
 
 <h3>Programming Languages</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center;">
+    <span>JavaScript</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Python</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <p>TypeScript</p>
-  </div>
-  <div style="text-align: center;">
+    <span>TypeScript</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <p>PHP</p>
-  </div>
-  <div style="text-align: center;">
+    <span>PHP</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <p>Java</p>
-  </div>
-</div>
+    <span>Java</span>
+  </span>
+</p>
 
 <h3>Frontend Development</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <p>HTML5</p>
-  </div>
-  <div style="text-align: center;">
+    <span>HTML5</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <p>CSS3</p>
-  </div>
-  <div style="text-align: center;">
+    <span>CSS3</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <p>Tailwind CSS</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Tailwind CSS</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
+    <span>React</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    <p>React Native</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <p>Redux</p>
-  </div>
-</div>
+    <span>React Native</span>
+  </span>
+</p>
 
 <h3>Backend Development</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <p>Node.js</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Node.js</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="Express.js Logo" width="40" height="40"/>
-    <p>Express.js</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Express.js</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
-    <p>Laravel</p>
-  </div>
-</div>
+    <span>Laravel</span>
+  </span>
+</p>
 
 <h3>Database Management</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <p>MongoDB</p>
-  </div>
-  <div style="text-align: center;">
+    <span>MongoDB</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <p>MySQL</p>
-  </div>
-</div>
+    <span>MySQL</span>
+  </span>
+</p>
 
 <h3>Tools & Utilities</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
-    <p>Git</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Git</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <p>Postman</p>
-  </div>
-</div>
+    <span>Postman</span>
+  </span>
+</p>
 
 <h3>Design & Prototyping</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <p>Figma</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Figma</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    <p>Adobe Illustrator</p>
-  </div>
-  <div style="text-align: center;">
+    <span>Adobe Illustrator</span>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/>
-    <p>Adobe Photoshop</p>
-  </div>
-</div>
+    <span>Adobe Photoshop</span>
+  </span>
+</p>
 
 <h3>Hardware & Embedded Systems</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <p>Arduino</p>
-  </div>
-</div>
-
-
+    <span>Arduino</span>
+  </span>
+</p>
