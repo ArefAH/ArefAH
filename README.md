@@ -67,7 +67,7 @@
     <span>Node.js</span>
   </span>
   <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="Express.js Logo" width="40" height="40"/>
+    <img src="https://vectorified.com/images/express-js-icon-20.png" alt="Express.js Logo" width="40" height="40"/>
     <span>Express.js</span>
   </span>
   <span style="display: flex; flex-direction: column; align-items: center; text-align: center;">
