@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋, I'm Aref Abou Hamdan</h1>
 <h3 align="left">😎 I'm a Computer Science grad passionate about turning creative ideas into real-life applications.</h3>
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
 <h3 align="left">💡I'm diving deep into React these days and loving it's ease of use. 🚀</h3>
 <h3 align="left">🎯I believe there's always room to level up and outperform your previous accomplishments. In the words of Les Brown, "𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙚 𝙢𝙖𝙠𝙚𝙨 𝙞𝙢𝙥𝙧𝙤𝙫𝙚𝙢𝙚𝙣𝙩. 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚𝙩𝙩𝙚𝙧 𝙮𝙤𝙪𝙧 𝙗𝙚𝙨𝙩. 𝙔𝙤𝙪'𝙡𝙡 𝙣𝙚𝙫𝙚𝙧 𝙝𝙞𝙩 𝙖 𝙨𝙩𝙖𝙩𝙚 𝙤𝙛 𝙥𝙚𝙧𝙛𝙚𝙘𝙩𝙞𝙤𝙣." </h3>
 <h3 align="left">📈When I’m not coding, you will find me watching F1 🏎️ and cheering on 1️⃣Max Verstappen as he dominates the track.</h3>
+<iframe src="https://giphy.com/embed/ozoPcVTVEJazsfX5rL" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/redbullracing-f1-red-bull-racing-ozoPcVTVEJazsfX5rL">via GIPHY</a></p>
 
 <div style="display: flex; justify-content: center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArefAH&theme=onedark&rank=-C,-?" alt="arefabouhamdan" /></a> </div>
 
